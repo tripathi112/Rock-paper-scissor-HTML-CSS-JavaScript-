@@ -2,7 +2,7 @@
 
 #### A simple and fun Rock, Paper, Scissors game built using HTML, CSS, and JavaScript. The user selects one of the three options, and the computer randomly selects its choice. The result and updated scores are then displayed.
 
-## SnapShos:
+## SnapShots:
 **1. For Laptop screen:**
 ![snapshot-laptop screen](https://github.com/user-attachments/assets/3405406d-69e8-446e-855f-b7a1e6042032)
 
@@ -56,6 +56,9 @@ To run this project on your local machine:
 **2.** Open the index.html file in your browser.
 
 **3.** Start playing and enjoy!
+
+### Live Access:
+https://rock-paper-scissor-html-css-java-script.vercel.app/
 
 ### Future Improvements
 **.** Add animations for more engaging gameplay.
