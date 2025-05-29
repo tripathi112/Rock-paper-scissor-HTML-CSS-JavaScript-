@@ -5,8 +5,6 @@
     text-align: center;
 }
 body{
-    background-color:#000;
-    color: #fff;
     overflow: scroll;
 }
 .heading{
@@ -43,7 +41,7 @@ img{
 .choice:hover{
     opacity: 0.5;
     cursor: pointer;
-    background-color: #f3f4f5;
+    background-color: #081b31;
 }
 
 /* score board */
